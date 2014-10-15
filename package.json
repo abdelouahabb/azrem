@@ -1,0 +1,20 @@
+{
+    "title": "Azrem",
+    "name": "azrem",
+    "description": "Orange theme for python/tornado/django users",
+    "version": "0.0.1",
+    "author": "<abdelouahab_al@yahoo.fr>",
+    "homepage": "https://github.com/abdelouahabb/azrem",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abdelouahabb/azrem.git"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "main.less",
+        "dark": true
+    },
+    "screenshot": "screenshot.png"
+}
