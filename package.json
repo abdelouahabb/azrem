@@ -3,7 +3,7 @@
     "name": "azrem",
     "description": "Orange theme for python/tornado/django users",
     "version": "0.0.1",
-    "author": "<abdelouahab_al@yahoo.fr>",
+    "author": "Aliane Abdelouahab <abdelouahab_al@yahoo.fr>",
     "homepage": "https://github.com/abdelouahabb/azrem",
     "repository": {
         "type": "git",
